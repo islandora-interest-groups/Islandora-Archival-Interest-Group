@@ -1,4 +1,4 @@
-# Islandora Fedora 4 Interest Group
+# Islandora Archival Interest Group
 
 ## Convenors
 

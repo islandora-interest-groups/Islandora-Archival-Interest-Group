@@ -20,6 +20,8 @@
 
 * Sara Allain (University of Toronto Scarborough)
 * Kelli Babcock (University of Toronto)
+* Sofía Becerra-Licha (Berklee College of Music)
+* Priscilla Caplan (Lyrasis)
 * Gregory Colati (University of Connecticut)
 * Caleb Derven (University of Limerick)
 * Dan Gillean (Artefactual Systems)

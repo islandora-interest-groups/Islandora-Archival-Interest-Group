@@ -4,7 +4,7 @@ Archival Interest Group: Meeting 0#
 
 Agenda
 
-1. Introductions
+1. [Introductions](https://github.com/Islandora/Islandora-Archival-Interest-Group/blob/master/meetings/meeting-template.md#attendees)
 2. Review Terms of Reference
 3. 
 

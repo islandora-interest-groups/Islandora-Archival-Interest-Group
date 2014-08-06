@@ -1,11 +1,10 @@
 Archival Interest Group: Meeting 0.5
 =====
-*Date and time*
+*6 August 2014, 3:00-4:00pm*
 
 Agenda
 -----
-1. 
-2. 
+N/A - flash meeting at Islandora Camp GTA
 
 Attendees
 -----
@@ -16,13 +15,12 @@ Attendees
 * Kelli Babcock (University of Toronto)
 * Anna St. Onge (York University)
 
-Notes
+Questions for agenda
 -----
-1. 
+* Why an archival description system and why Islandora? And why should we use both?
+* Are people looking at Islandora as more of a repository of all the things or a hierarchical platform containing structured data?
+* How do we address the cultural issues that alienate archivists? How do we 
 
 Action Items
 -----
-1. Sara to send out call for agenda items next 
-
-Questions/Comments
------
+1. Sara to send out call for agenda items on Monday, including questions above

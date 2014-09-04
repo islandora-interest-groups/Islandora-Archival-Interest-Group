@@ -19,8 +19,4 @@ Questions for agenda
 -----
 * Why an archival description system and why Islandora? And why should we use both?
 * Are people looking at Islandora as more of a repository of all the things or a hierarchical platform containing structured data?
-* How do we address the cultural issues that alienate archivists? How do we 
-
-Action Items
------
-1. Sara to send out call for agenda items on Monday, including questions above
+* How do we address the cultural issues that alienate archivists?

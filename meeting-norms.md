@@ -3,7 +3,7 @@
 ## Dates, Frequency, and Reporting
 
 * Convener (Sara) will set up the first six meeting dates
-* Revolving chair and note-taking responsibilities
+* Revolving note-taking responsibilities
 * Convener (Sara) will prepare a report after each meeting to send to the Roadmap Committee
 
 ## Contact

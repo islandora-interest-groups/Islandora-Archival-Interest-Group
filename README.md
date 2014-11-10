@@ -43,3 +43,4 @@
 * Krystal Thomas (Florida State University)
 * Scott Ziegler (American Philosophical Society)
 * Sam Fritz (Islandora Foundation)
+* Stacey Erdman (Northern Illinois University)

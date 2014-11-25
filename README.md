@@ -44,3 +44,4 @@
 * Scott Ziegler (American Philosophical Society)
 * Sam Fritz (Islandora Foundation)
 * Stacey Erdman (Northern Illinois University)
+* Danielle Robichaud (University of Toronto - St Michael's College)

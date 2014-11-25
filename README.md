@@ -2,7 +2,7 @@
 
 ## Convenors
 
-* Sara Allain (University of Toronto Scarborough)
+* Sara Allain (Ryerson University - sallain [at] ryerson.ca)
 
 ## Terms of Reference
 

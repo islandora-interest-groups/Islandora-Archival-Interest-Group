@@ -2,7 +2,7 @@
 
 ## Convenors
 
-* Sara Allain (Ryerson University - sallain [at] ryerson.ca)
+* Sara Allain (Ryerson University - sara.j.allain [at] gmail.com)
 
 ## Terms of Reference
 

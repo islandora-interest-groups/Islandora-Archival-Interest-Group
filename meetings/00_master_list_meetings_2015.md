@@ -2,7 +2,9 @@
 
 December 18th, 12-1pm EST
 
-January 22nd, 12-1pm EST
+January 29th, 12-1pm EST - Manuscripts in Islandora
+- Invite Nigel to talk about [Manuscript Solution Pack](https://github.com/discoverygarden/islandora_solution_pack_manuscript)
+- Martha to talk about what Barnard is dreaming about
 
 February 19th, 12-1pm EST
 

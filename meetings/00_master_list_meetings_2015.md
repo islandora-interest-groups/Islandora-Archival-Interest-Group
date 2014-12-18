@@ -1,32 +1,27 @@
-~~September 11th, 12-1pm EST~~
+~~[September 11th, 12-1pm EST - *Kickoff meeting*](https://github.com/Islandora/Islandora-Archival-Interest-Group/blob/master/meetings/01_20140911.md)~~
 
-~~December 18th, 12-1pm EST~~
+~~[December 18th, 12-1pm EST - *Planning*](https://github.com/Islandora/Islandora-Archival-Interest-Group/blob/master/meetings/02_20141218.md)~~
 
-January 29th, 12-1pm EST - Manuscripts in Islandora
-- Invite Nigel to talk about [Manuscript Solution Pack](https://github.com/discoverygarden/islandora_solution_pack_manuscript)
-- Martha to talk about what Barnard is dreaming about
+[January 29th, 12-1pm EST - *Manuscripts in Islandora*](https://github.com/Islandora/Islandora-Archival-Interest-Group/blob/master/meetings/03_20150129.md)
 
-February 12th, 12-1pm EST - Islandora and Archival Description Platforms
-- Anna to structure the conversation around how we conceptualize this and how it works for us
-- How do we make Islandora work with archival description platforms (AtoM, ArchiveSpace, etc.)
+[February 12th, 12-1pm EST - *Islandora and Archival Description Platforms*](https://github.com/Islandora/Islandora-Archival-Interest-Group/blob/master/meetings/03_20150129.md)
 
-March 12th, 12-1pm EST - Archivematica-Islandora integration (USask)
-- Ask Tim Hutchinson if he will prepare a directed discussion about Archidora
+[March 12th, 12-1pm EST - *Archivematica-Islandora integration (USask)*](https://github.com/Islandora/Islandora-Archival-Interest-Group/blob/master/meetings/05_20150312.md)
 
-April 16th, 12-1pm EST
+April 9th, 12-1pm EST
 
-May 21st, 12-1pm EST
+May 14th, 12-1pm EST
 
-June 18th, 12-1pm EST
+June 11th, 12-1pm EST
 
-July 16th, 12-1pm EST
+July 9th, 12-1pm EST
 
-August 20th, 12-1pm EST
+August 13th, 12-1pm EST
 
-September 17th, 12-1pm EST
+September 10th, 12-1pm EST
 
-October 15th, 12-1pm EST
+October 8th, 12-1pm EST
 
-November 19th, 12-1pm EST
+November 12th, 12-1pm EST
 
-December 17th, 12-1pm EST
+December 10th, 12-1pm EST

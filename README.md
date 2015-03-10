@@ -2,7 +2,7 @@
 
 ## Convenors
 
-* Sara Allain (Ryerson University - sara.j.allain [at] gmail.com)
+* Now seeking new convenors
 
 ## Terms of Reference
 

@@ -26,6 +26,7 @@
 * Gregory Colati (University of Connecticut)
 * Caleb Derven (University of Limerick)
 * Dan Gillean (Artefactual Systems)
+* Melanie Hardbattle (Simon Fraser University)
 * Craig Harkema (University of Saskatchewan)
 * Tim Hutchinson (University of Saskatchewan)
 * Alex Kent (PALS, Minnesota State Colleges and Universities)
